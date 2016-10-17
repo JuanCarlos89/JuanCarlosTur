@@ -1,1 +1,23 @@
 Documento XML
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+    <venta>puesto de ventas</venta>
+    <coche>
+     <marca>HONDA</marca>
+     <modelo>ACCORD</modelo>
+    </coche>
+    <modelos>
+     <motor>
+      <CentimetrosCubicos>2.0</CentimetrosCubicos>
+      <CV>115</CV>
+     </motor>
+     <motor>
+      <CentimetrosCubicos>2.2</CentimetrosCubicos>
+      <CV>140</CV>
+     </motor>
+     <motor>
+       <CentimetrosCubicos>2.4</CentimetrosCubicos>
+       <CV>160</CV>
+     </motor>
+    </modelos>
+</concesionario>
