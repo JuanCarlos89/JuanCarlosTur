@@ -7,7 +7,7 @@ Repositorio para CFGS administración de sistemas informáticos.
 
 * Dels altres archius com vora, lo unic que he fet a estat copiar i aferrar el llenguatge dels apunts.
   * **HTML** i **CSS** tenc unes nocions basiques del lenguatge degut a que tenc el titol de grau mitja de sistemes microinformatics en xarxa, adquirit al centre _ES LICEU_ en la promocio 2011.
-  * **XML** no he posat res perque no se com funciona, imagin que u podre aprendre en aquesta asignatura o si no dins aquest FP.
+  * **XML** he pogut fer un archiu basic segons lo que he llegit
   * **PS** mes o manco e entes un poc sa dinamica des llenguatge.
   * **RTF** es el que e modificat per acabar de entendre com anaba, pero encara i aixi no entenc com va.
   
